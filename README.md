@@ -2,7 +2,7 @@
 
 Este repositorio contiene un proyecto weba básco y estmos aprendiendo a utilizar Git y GitHub.
 
-
-| Carnet   | 201503229  | 
-| Nombre   | Alvaro Calderón   | 
-| Fecha   | ocubre 2025  | 
+| Carnet | 201503229|
+|---|---|
+| Nombre | Alvaro Calderón|
+| Fecha | ocubre 2025|
